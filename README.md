@@ -9,9 +9,9 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 
 
 ## Papers
-### [2020]
-
-### [2019]
+### 2020
+- Evaluating Weakly Supervised Object Localization Methods Right, J. Choe et. al., ***CVPR*** [[paper]](https://arxiv.org/abs/2001.07437?fbclid=IwAR2yQGgDlMB_UsykA4fg2B0ZI5C2LzfguFO8-X5eS2Lmye3uXi2LRr_Y2EQ)[[code]](https://github.com/clovaai/wsolevaluation)
+### 2019]
 
 ### [2018]
 
