@@ -14,7 +14,7 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 
 ### 2019]
 - [ ] Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations, J. Ahn *et. al.*, *CVPR*. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf)[[code]](https://github.com/jiwoon-ahn/irn)
-- [ ] Attention-based Dropout Layer for Weakly Supervised Object Localization, J. Choe *et. al.*, *CVPR*. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf≈)[[code]](https://github.com/junsukchoe/ADL) 
+- [ ] Attention-based Dropout Layer for Weakly Supervised Object Localization, J. Choe *et. al.*, *CVPR*. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf)[[code]](https://github.com/junsukchoe/ADL) 
 - [ ] Learning Instance Activation Maps for Weakly Supervised Instance Segmentation, Y. Zhu *et. al.*, *CVPR*. [[paper]](https://pdfs.semanticscholar.org/8d45/22679bae498c165e362b494a054a08641396.pdf)
 - [ ] DANet: Divergent Activation for Weakly Supervised Object Localization	H. Xue  *et. al.*, *ICCV*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_DANet_Divergent_Activation_for_Weakly_Supervised_Object_Localization_ICCV_2019_paper.pdf)
 
