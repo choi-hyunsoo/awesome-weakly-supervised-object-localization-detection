@@ -34,10 +34,9 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 - [ ] Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization, K. Kumar *et. al.*, *ICCV*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Hide-And-Seek_Forcing_a_ICCV_2017_paper.pdf)[[code]](https://github.com/kkanshul/Hide-and-Seek)
 
 ## 2016
-- [x] Learning deep features for discriminative localization, B. Zhou *et. al.* *CVPR*. [[paper]](Learning deep features for discriminative localization)[[code]]
+- [x] Learning deep features for discriminative localization, B. Zhou *et. al.* *CVPR*. [[paper]](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
 
 ## Todo
-- [ ] Paper list update
 - [ ] Tutorial update
 - [ ] Patent update
 
