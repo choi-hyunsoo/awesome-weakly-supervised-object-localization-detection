@@ -16,9 +16,10 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 - [ ] Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations, J. Ahn *et. al.*, *CVPR*. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf)[[code]](https://github.com/jiwoon-ahn/irn)
 - [ ] Attention-based Dropout Layer for Weakly Supervised Object Localization, J. Choe *et. al.*, *CVPR*. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf)[[code]](https://github.com/junsukchoe/ADL) 
 - [ ] Learning Instance Activation Maps for Weakly Supervised Instance Segmentation, Y. Zhu *et. al.*, *CVPR*. [[paper]](https://pdfs.semanticscholar.org/8d45/22679bae498c165e362b494a054a08641396.pdf)
+- [x] C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection, F. Wan *et. al.* CVPR*. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_C-MIL_Continuation_Multiple_Instance_Learning_for_Weakly_Supervised_Object_Detection_CVPR_2019_paper.pdf)[[code]](https://github.com/Winfrand/C-MIL)
 - [ ] DANet: Divergent Activation for Weakly Supervised Object Localization	H. Xue  *et. al.*, *ICCV*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_DANet_Divergent_Activation_for_Weakly_Supervised_Object_Localization_ICCV_2019_paper.pdf)
-
-
+- [ ] CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features, S. Yun *et. al.*, *ICCV*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)[[code]](https://github.com/clovaai/CutMix-PyTorch)
+- [ ] Marginalized Average Attentional Network for Weakly-Supervised Learning, Y. Yuan *et. al.*, *ICLR*. [[paper]](https://openreview.net/pdf?id=HkljioCcFQ)[[code]](https://github.com/yyuanad/MAAN) 
 
 ### 2018
 - [ ] Adversarial Complementary Learning for Weakly Supervised Object Localization, X. Zhang *et. al.*, *CVPR*. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Adversarial_Complementary_Learning_CVPR_2018_paper.pdf)[[code]](https://github.com/xiaomengyc/ACoL)
@@ -28,6 +29,12 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 - [ ] Collaborative Learning for Weakly Supervised Object Detection, J. Wang *et. al.*, *IJCAI*. [[paper]](https://www.ijcai.org/Proceedings/2018/0135.pdf)[[code]](https://github.com/Sunarker/Collaborative-Learning-for-Weakly-Supervised-Object-Detection)
 - [ ] Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval, X Zheng *et. al.*, *IJCAI*. [[paper]](https://www.ijcai.org/Proceedings/2018/0171.pdf)
 
+## 2017
+- [x] Grad-cam: Visual explanations from deep networks via gradient-based localization, R. Selvaraju *et. al.*, *CVPR*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
+- [ ] Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization, K. Kumar *et. al.*, *ICCV*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Hide-And-Seek_Forcing_a_ICCV_2017_paper.pdf)[[code]](https://github.com/kkanshul/Hide-and-Seek)
+
+## 2016
+- [x] Learning deep features for discriminative localization, B. Zhou *et. al.* *CVPR*. [[paper]](Learning deep features for discriminative localization)[[code]]
 
 ## Todo
 - [ ] Paper list update
