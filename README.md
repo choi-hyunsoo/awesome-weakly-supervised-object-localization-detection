@@ -1,6 +1,6 @@
-# Awesome Weakly Supervised Objective Localization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Weakly Supervised Localization and Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of anomaly detection resources. Other lists can be found in this [list](https://github.com/sindresorhus/awesome).
+A curated list of weakly supervised localization and detection resources. Other lists can be found in this [list](https://github.com/sindresorhus/awesome).
 
 
 ## Table of Contents
@@ -15,11 +15,11 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 
 ### 2019
 - [ ] [Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf), J. Ahn *et. al.*, *CVPR*. [[code]](https://github.com/jiwoon-ahn/irn)
-- [ ] [Attention-based Dropout Layer for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf), J. Choe *et. al.*, *CVPR*. [[code]](https://github.com/junsukchoe/ADL) 
+- [x] [Attention-based Dropout Layer for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf), J. Choe *et. al.*, *CVPR*. [[code]](https://github.com/junsukchoe/ADL) 
 - [ ] [Learning Instance Activation Maps for Weakly Supervised Instance Segmentation](https://pdfs.semanticscholar.org/8d45/22679bae498c165e362b494a054a08641396.pdf), Y. Zhu *et. al.*, *CVPR*.
 - [x] [C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_C-MIL_Continuation_Multiple_Instance_Learning_for_Weakly_Supervised_Object_Detection_CVPR_2019_paper.pdf), F. Wan *et. al.* *CVPR*. [[code]](https://github.com/Winfrand/C-MIL)
-- [ ] [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_FickleNet_Weakly_and_Semi-Supervised_Semantic_Image_Segmentation_Using_Stochastic_Inference_CVPR_2019_paper.pdf), J. Lee *et. al.,* CVPR. 
-- [ ] [DANet: Divergent Activation for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_DANet_Divergent_Activation_for_Weakly_Supervised_Object_Localization_ICCV_2019_paper.pdf), H. Xue  *et. al.*, *ICCV*.
+- [x] [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_FickleNet_Weakly_and_Semi-Supervised_Semantic_Image_Segmentation_Using_Stochastic_Inference_CVPR_2019_paper.pdf), J. Lee *et. al.,* CVPR. 
+- [ ] [DANet: Divergent Activation for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_DANet_Divergent_Activation_for_Weakly_Supervised_Object_Localization_ICCV_2019_paper.pdf), H. Xue *et. al.*, *ICCV*.
 - [ ] [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf), S. Yun *et. al.*, *ICCV*. [[code]](https://github.com/clovaai/CutMix-PyTorch)
 - [ ] [Marginalized Average Attentional Network for Weakly-Supervised Learning](https://openreview.net/pdf?id=HkljioCcFQ), Y. Yuan *et. al.*, *ICLR*. [[code]](https://github.com/yyuanad/MAAN) 
 
@@ -29,7 +29,7 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 - [ ] [Self-produced Guidance for Weakly-supervised Object Localization](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf), X. Zhang *et. al.*, *ECCV*. [[code]](https://github.com/xiaomengyc/SPG)
 - [ ] [C-WSL: Count-guided Weakly Supervised Localization](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Mingfei_Gao_C-WSL_Count-guided_Weakly_ECCV_2018_paper.pdf), M. Gao *et. al.*, *ECCV*.
 - [ ] [Collaborative Learning for Weakly Supervised Object Detection](https://www.ijcai.org/Proceedings/2018/0135.pdf)[[code]](https://github.com/Sunarker/Collaborative-Learning-for-Weakly-Supervised-Object-Detection), J. Wang *et. al.*, *IJCAI*.
-- [ ] [Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval](https://www.ijcai.org/Proceedings/2018/0171.pdf), X Zheng *et. al.*, *IJCAI*.
+- [ ] [Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval](https://www.ijcai.org/Proceedings/2018/0171.pdf), X. Zheng *et. al.*, *IJCAI*.
 
 ## 2017
 - [x] [Grad-cam: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf), R. Selvaraju *et. al.*, *CVPR*.
@@ -40,7 +40,7 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 - [x] [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf), B. Zhou *et. al.*, *CVPR*, 2016.
 - [ ] [Weakly Supervised Object Localization with Progressive Domain Adaptation](https://www.zpascal.net/cvpr2016/Li_Weakly_Supervised_Object_CVPR_2016_paper.pdf), D. Li *et. al.,* *CVPR*, 2016.
 - [ ] [Weakly-and Semi-supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Papandreou_Weakly-_and_Semi-Supervised_ICCV_2015_paper.pdf), G. Papandreiu *et. al.*, *CVPR*, 2015. [[code]](https://bitbucket.org/deeplab/deeplab-public/src/master/)
-- [ ] [Multi-fold MIL Training for Weakly Supervised Object Localization](https://ieeexplore.ieee.org/document/6909705), RG Cinbis *et. al.,* CVPR, 2015.
+- [ ] [Multi-fold MIL Training for Weakly Supervised Object Localization](https://ieeexplore.ieee.org/document/6909705), R. Cinbis *et. al.,* CVPR, 2015.
 - [ ] [On Learning to Localize Objects with Minimal Supervision](http://proceedings.mlr.press/v32/songb14.pdf), H. Song *et. al.,* *ICML*, 2014.
 
 
