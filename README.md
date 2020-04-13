@@ -6,6 +6,7 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 ## Table of Contents
 
 - [Papers](#papers)
+- [Tutorials](#tutorials)
 
 
 ## Papers
@@ -37,7 +38,7 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 - [x] Learning deep features for discriminative localization, B. Zhou *et. al.* *CVPR*. [[paper]](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
 
 
-## Tutorial 
+## Tutorials
 - [ ] Weakly Supervised CNN Segmentation: Models and Optimization, *MICCAI Tutorial*, 2019. [[slide]](https://sites.google.com/view/miccai-2019-tutorial-weaksup/home)
 - [ ] Weakly supervised learning for semantic segmentation, *IBM*, 2019. [[video]](https://www.youtube.com/watch?v=6EBhQDkSs9E)
 - [ ] Overview of Weakly Supervised Object Localization Papers, *Arizona Univ.*, 2019. [[blog]](https://www.jianshu.com/p/e0097769f3b3)
