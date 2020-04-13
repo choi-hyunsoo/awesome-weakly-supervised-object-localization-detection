@@ -36,6 +36,9 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 ## 2016
 - [x] Learning deep features for discriminative localization, B. Zhou *et. al.* *CVPR*. [[paper]](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
 
+
+## Tutorial 
+- [ ] CVPR 2019 [video [part 1](https://www.youtube.com/watch?v=bXfZFmE8cjo) [part 2](https://www.youtube.com/watch?v=FetNp6f19IM)]
 ## Todo
 - [ ] Tutorial update
 - [ ] Patent update
