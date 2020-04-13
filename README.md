@@ -38,9 +38,14 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 
 
 ## Tutorial 
-- [ ] CVPR 2019 [video [part 1](https://www.youtube.com/watch?v=bXfZFmE8cjo) [part 2](https://www.youtube.com/watch?v=FetNp6f19IM)]
+- [ ] Weakly Supervised CNN Segmentation: Models and Optimization, *MICCAI Tutorial*, 2019. [[slide]](https://sites.google.com/view/miccai-2019-tutorial-weaksup/home)
+- [ ] Weakly supervised learning for semantic segmentation, *IBM*, 2019. [[video]](https://www.youtube.com/watch?v=6EBhQDkSs9E)
+- [ ] Overview of Weakly Supervised Object Localization Papers, *Arizona Univ.*, 2019. [[blog]](https://www.jianshu.com/p/e0097769f3b3)
+- [ ] Towards Weakly Supervised Object Segmentation & Scene Parsing, *VALSE*, 2019. [[slide]](https://weiyc.github.io/assets/pdf/VALSE-2019-Workshop-YCWEI.pdf)
+- [ ] Weakly Supervised Learning for Computer Vision, *CVPR Tutorial*, 2018. [video [[part 1]](https://www.youtube.com/watch?v=bXfZFmE8cjo) [[part 2]](https://www.youtube.com/watch?v=FetNp6f19IM)]
+
+
 ## Todo
-- [ ] Tutorial update
 - [ ] Patent update
 
 
