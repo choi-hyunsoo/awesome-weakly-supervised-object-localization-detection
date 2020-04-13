@@ -18,6 +18,7 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 - [ ] Attention-based Dropout Layer for Weakly Supervised Object Localization, J. Choe *et. al.*, *CVPR*. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf)[[code]](https://github.com/junsukchoe/ADL) 
 - [ ] Learning Instance Activation Maps for Weakly Supervised Instance Segmentation, Y. Zhu *et. al.*, *CVPR*. [[paper]](https://pdfs.semanticscholar.org/8d45/22679bae498c165e362b494a054a08641396.pdf)
 - [x] C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection, F. Wan *et. al.* CVPR*. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_C-MIL_Continuation_Multiple_Instance_Learning_for_Weakly_Supervised_Object_Detection_CVPR_2019_paper.pdf)[[code]](https://github.com/Winfrand/C-MIL)
+- [ ] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference, J. Lee *et. al.,* CVPR. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_FickleNet_Weakly_and_Semi-Supervised_Semantic_Image_Segmentation_Using_Stochastic_Inference_CVPR_2019_paper.pdf)
 - [ ] DANet: Divergent Activation for Weakly Supervised Object Localization	H. Xue  *et. al.*, *ICCV*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_DANet_Divergent_Activation_for_Weakly_Supervised_Object_Localization_ICCV_2019_paper.pdf)
 - [ ] CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features, S. Yun *et. al.*, *ICCV*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)[[code]](https://github.com/clovaai/CutMix-PyTorch)
 - [ ] Marginalized Average Attentional Network for Weakly-Supervised Learning, Y. Yuan *et. al.*, *ICLR*. [[paper]](https://openreview.net/pdf?id=HkljioCcFQ)[[code]](https://github.com/yyuanad/MAAN) 
@@ -33,9 +34,14 @@ A curated list of anomaly detection resources. Other lists can be found in this 
 ## 2017
 - [x] Grad-cam: Visual explanations from deep networks via gradient-based localization, R. Selvaraju *et. al.*, *CVPR*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
 - [ ] Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization, K. Kumar *et. al.*, *ICCV*. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Hide-And-Seek_Forcing_a_ICCV_2017_paper.pdf)[[code]](https://github.com/kkanshul/Hide-and-Seek)
+- [ ] Weakly Supervised Object Localization Using Things and Stuff Transfer, M Shi *et. al.,* ICCV. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shi_Weakly_Supervised_Object_ICCV_2017_paper.pdf)
 
-## 2016
-- [x] Learning deep features for discriminative localization, B. Zhou *et. al.* *CVPR*. [[paper]](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+## <= 2016
+- [x] Learning deep features for discriminative localization, B. Zhou *et. al.*, *CVPR*, 2016. [[paper]](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+- [ ] Weakly Supervised Object Localization with Progressive Domain Adaptation, D. Li *et. al.,* *CVPR*, 2016. [[paper]](https://www.zpascal.net/cvpr2016/Li_Weakly_Supervised_Object_CVPR_2016_paper.pdf)
+- [ ] Weakly-and semi-supervised learning of a deep convolutional network for semantic image segmentation, G. Papandreiu *et. al.*, *CVPR*, 2015. [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Papandreou_Weakly-_and_Semi-Supervised_ICCV_2015_paper.pdf)[[code]](https://bitbucket.org/deeplab/deeplab-public/src/master/)
+- [ ] Multi-fold MIL Training for Weakly Supervised Object Localization, RG Cinbis *et. al.,* CVPR, 2015. [[paper]](https://ieeexplore.ieee.org/document/6909705)
+- [ ] On learning to localize objects with minimal supervision, H. Song *et. al.,* *ICML*, 2014. [[paper]](http://proceedings.mlr.press/v32/songb14.pdf)
 
 
 ## Tutorials
