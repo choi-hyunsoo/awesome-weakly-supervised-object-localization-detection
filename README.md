@@ -24,15 +24,16 @@ A curated list of weakly supervised localization and detection resources. Other 
 - [ ] [Marginalized Average Attentional Network for Weakly-Supervised Learning](https://openreview.net/pdf?id=HkljioCcFQ), Y. Yuan *et. al.*, *ICLR*. [[code]](https://github.com/yyuanad/MAAN) 
 
 ### 2018
-- [ ] [Adversarial Complementary Learning for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Adversarial_Complementary_Learning_CVPR_2018_paper.pdf), X. Zhang *et. al.*, *CVPR*. [[code]](https://github.com/xiaomengyc/ACoL)
+- [x] [Adversarial Complementary Learning for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Adversarial_Complementary_Learning_CVPR_2018_paper.pdf), X. Zhang *et. al.*, *CVPR*. [[code]](https://github.com/xiaomengyc/ACoL)
 - [ ] [Weakly Supervised Instance Segmentation using Class Peak Response](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf), Y. Zhou *et. al.*, *CVPR*. [[code]](https://github.com/ZhouYanzhao/PRM)
 - [ ] [Self-produced Guidance for Weakly-supervised Object Localization](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf), X. Zhang *et. al.*, *ECCV*. [[code]](https://github.com/xiaomengyc/SPG)
 - [ ] [C-WSL: Count-guided Weakly Supervised Localization](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Mingfei_Gao_C-WSL_Count-guided_Weakly_ECCV_2018_paper.pdf), M. Gao *et. al.*, *ECCV*.
-- [ ] [Collaborative Learning for Weakly Supervised Object Detection](https://www.ijcai.org/Proceedings/2018/0135.pdf)[[code]](https://github.com/Sunarker/Collaborative-Learning-for-Weakly-Supervised-Object-Detection), J. Wang *et. al.*, *IJCAI*.
+- [ ] [Collaborative Learning for Weakly Supervised Object Detection](https://www.ijcai.org/Proceedings/2018/0135.pdf), J. Wang *et. al.*, *IJCAI*. [[code]](https://github.com/Sunarker/Collaborative-Learning-for-Weakly-Supervised-Object-Detection)
 - [ ] [Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval](https://www.ijcai.org/Proceedings/2018/0171.pdf), X. Zheng *et. al.*, *IJCAI*.
 
 ## 2017
 - [x] [Grad-cam: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf), R. Selvaraju *et. al.*, *CVPR*.
+- [ ] [Object region mining with adversarial erasing: A simple classification to semantic segmentation approach.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf), Y. Wei *et. al.*, *CVPR*.
 - [ ] [Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Hide-And-Seek_Forcing_a_ICCV_2017_paper.pdf), K. Kumar *et. al.*, *ICCV*. [[code]](https://github.com/kkanshul/Hide-and-Seek)
 - [ ] [Weakly Supervised Object Localization Using Things and Stuff Transfer](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shi_Weakly_Supervised_Object_ICCV_2017_paper.pdf), M Shi *et. al.,* ICCV.
 
