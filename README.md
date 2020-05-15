@@ -11,6 +11,7 @@ A curated list of weakly supervised localization and detection resources. Other 
 
 ## Papers
 ### 2020
+- [x] [Combinational Class Activation Maps for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_Activation_Maps_for_Weakly_Supervised_Object_Localization_WACV_2020_paper.pdf), S. Yang *et. al.*, *WACV*.
 - [x] [Evaluating Weakly Supervised Object Localization Methods Right](https://arxiv.org/abs/2001.07437?fbclid=IwAR2yQGgDlMB_UsykA4fg2B0ZI5C2LzfguFO8-X5eS2Lmye3uXi2LRr_Y2EQ), J. Choe *et. al.*, *CVPR*. [[code]](https://github.com/clovaai/wsolevaluation)
 
 ### 2019
