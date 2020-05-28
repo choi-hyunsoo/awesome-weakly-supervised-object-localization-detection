@@ -6,11 +6,13 @@ A curated list of weakly supervised localization and detection resources. Other 
 ## Table of Contents
 
 - [Papers](#papers)
+- [Application](#Applications)
 - [Tutorials](#tutorials)
 
 
 ## Papers
 ### 2020
+- [x] [Combinational Class Activation Maps for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_Activation_Maps_for_Weakly_Supervised_Object_Localization_WACV_2020_paper.pdf), S. Yang *et. al.*, *WACV*.
 - [x] [Evaluating Weakly Supervised Object Localization Methods Right](https://arxiv.org/abs/2001.07437?fbclid=IwAR2yQGgDlMB_UsykA4fg2B0ZI5C2LzfguFO8-X5eS2Lmye3uXi2LRr_Y2EQ), J. Choe *et. al.*, *CVPR*. [[code]](https://github.com/clovaai/wsolevaluation)
 
 ### 2019
@@ -31,13 +33,13 @@ A curated list of weakly supervised localization and detection resources. Other 
 - [ ] [Collaborative Learning for Weakly Supervised Object Detection](https://www.ijcai.org/Proceedings/2018/0135.pdf), J. Wang *et. al.*, *IJCAI*. [[code]](https://github.com/Sunarker/Collaborative-Learning-for-Weakly-Supervised-Object-Detection)
 - [ ] [Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval](https://www.ijcai.org/Proceedings/2018/0171.pdf), X. Zheng *et. al.*, *IJCAI*.
 
-## 2017
+### 2017
 - [x] [Grad-cam: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf), R. Selvaraju *et. al.*, *CVPR*.
 - [ ] [Object region mining with adversarial erasing: A simple classification to semantic segmentation approach.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf), Y. Wei *et. al.*, *CVPR*.
 - [ ] [Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Hide-And-Seek_Forcing_a_ICCV_2017_paper.pdf), K. Kumar *et. al.*, *ICCV*. [[code]](https://github.com/kkanshul/Hide-and-Seek)
-- [ ] [Weakly Supervised Object Localization Using Things and Stuff Transfer](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shi_Weakly_Supervised_Object_ICCV_2017_paper.pdf), M Shi *et. al.,* ICCV.
+- [ ] [Weakly Supervised Object Localization Using Things and Stuff Transfer](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shi_Weakly_Supervised_Object_ICCV_2017_paper.pdf), M. Shi *et. al.,* ICCV.
 
-## 2016 >=
+### 2016 >=
 - [x] [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf), B. Zhou *et. al.*, *CVPR*, 2016.
 - [ ] [Weakly Supervised Object Localization with Progressive Domain Adaptation](https://www.zpascal.net/cvpr2016/Li_Weakly_Supervised_Object_CVPR_2016_paper.pdf), D. Li *et. al.,* *CVPR*, 2016.
 - [ ] [Weakly-and Semi-supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Papandreou_Weakly-_and_Semi-Supervised_ICCV_2015_paper.pdf), G. Papandreiu *et. al.*, *CVPR*, 2015. [[code]](https://bitbucket.org/deeplab/deeplab-public/src/master/)
@@ -51,6 +53,12 @@ A curated list of weakly supervised localization and detection resources. Other 
 - [ ] Overview of Weakly Supervised Object Localization Papers, *Arizona Univ.*, 2019. [[blog]](https://www.jianshu.com/p/e0097769f3b3)
 - [ ] Towards Weakly Supervised Object Segmentation & Scene Parsing, *VALSE*, 2019. [[slide]](https://weiyc.github.io/assets/pdf/VALSE-2019-Workshop-YCWEI.pdf)
 - [ ] Weakly Supervised Learning for Computer Vision, *CVPR Tutorial*, 2018. [video [part 1](https://www.youtube.com/watch?v=bXfZFmE8cjo), [part 2](https://www.youtube.com/watch?v=FetNp6f19IM)]
+
+
+## Applications
+### Defects detection (or localization or segmentation)
+- [x] [A Weakly Supervised Surface Defect Detection Based on Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9020085), L. Xu *et. al.*, *IEEE ACCESS*, 2020.
+- [x] [DefectGAN: Weakly-Supervised Defect Detection using Generative Adversarial Network](https://ieeexplore.ieee.org/document/8843204), S. Niu *et. al.*, *CASE*, 2019.
 
 
 ## Todo
